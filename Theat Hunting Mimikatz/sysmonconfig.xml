@@ -1,0 +1,19 @@
+<!-- Mimikatz Detection -->
+<ImageLoaded condition="is">C:\Windows\System32\sechost.dll</ImageLoaded> 
+<ImageLoaded condition="is">C:\Windows\System32\cryptdll.dll</ImageLoaded> 
+<ImageLoaded condition="is">C:\Windows\System32\hid.dll</ImageLoaded> 
+<ImageLoaded condition="is">C:\Windows\System32\samlib.dll</ImageLoaded> 
+<ImageLoaded condition="is">C:\Windows\System32\vaultcli.dll</ImageLoaded> 
+<ImageLoaded condition="is">C:\\Windows\System32\sspicli.dl</ImageLoaded> 
+<ImageLoaded condition="is">C:\Windows\System32\msasn1.dl</ImageLoaded> 
+<ImageLoaded condition="is">C:\Windows\System32\advapi32.dl</ImageLoaded>
+<ImageLoaded condition="is">C:\Windows\System32\kernel32.dl</ImageLoaded>
+<ImageLoaded condition="is">C:\Windows\System32\gdi32.dl</ImageLoaded>
+<ImageLoaded condition="is">C:\Windows\System32\devobj.dl</ImageLoaded>
+<ImageLoaded condition="is">C:\Windows\System32\shell32.dl</ImageLoaded>
+<ImageLoaded condition="is">C:\Windows\System32\ntdll.dl</ImageLoaded>
+<ImageLoaded condition="is">C:\Windows\System32\KernelBase.dl</ImageLoaded>
+<ImageLoaded condition="is">C:\Windows\System32\user32.dl</ImageLoaded>
+<ImageLoaded condition="is">C:\Windows\System32\imm32.dl</ImageLoaded>
+<ImageLoaded condition="contains">\Temp\</ImageLoaded>
+<!-- END: Mimikatz Detection -->
